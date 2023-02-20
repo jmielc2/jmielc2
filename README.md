@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-This is the place where I host 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: jmielc2@uic.edu
+This is the place where I host my personal projects.
+- 🔭 I’m currently working on a set of personal C programming tools and utilities
+- 🌱 I’m currently learning Computer Graphics and Computer Vision technologies
