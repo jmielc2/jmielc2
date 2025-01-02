@@ -1,3 +1,3 @@
 ### Hello and Welcome!
 
-This is the place where I host relevant personal projects I'm eager to show off.
+This is the place where I host and share my personal projects.
