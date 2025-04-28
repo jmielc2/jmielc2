@@ -9,10 +9,10 @@ This is the place where I host and share some of my personal projects. Take a lo
 
 ## [Sudoku Solver](https://github.com/jmielc2/Sudoku-Solver)
 
-<img width="468" alt="9x9 Solved" src="https://github.com/user-attachments/assets/ff59ee8d-625d-4f93-8369-973f4e1f6f8b" />
+<img width="500" alt="9x9 Solved" src="https://github.com/user-attachments/assets/ff59ee8d-625d-4f93-8369-973f4e1f6f8b" />
 
 ## [Mandelbrot Explorer](https://github.com/jmielc2/Mandelbrot-Explorer)
 
-![Mandelbrot Big Picture](https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/big-picture-view.png?raw=true)
-![Double spirals](https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/double-spirals.png?raw=true)
-![Curls](https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/curls.png?raw=true)
+<img width="500" src="https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/big-picture-view.png?raw=true" />
+<img width="500" src="https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/double-spirals.png?raw=true" />
+<img width="500" src="https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/curls.png?raw=true" />
