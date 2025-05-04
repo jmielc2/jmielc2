@@ -15,4 +15,3 @@ This is the place where I host and share some of my personal projects. Take a lo
 
 <img width="500" src="https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/big-picture-view.png?raw=true" />
 <img width="500" src="https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/double-spirals.png?raw=true" />
-<img width="500" src="https://github.com/jmielc2/Mandelbrot-Explorer/blob/main/Documents/curls.png?raw=true" />
