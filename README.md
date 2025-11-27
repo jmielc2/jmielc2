@@ -1,8 +1,8 @@
 ### Hello and Welcome!
 
-This is the place where I host and share some of my personal projects. Take a look!
+This is the place where I host my personal projects. Take a look!
 
-## [Wordle Bot](https://github.com/jmielc2/Wordle-Bot)
+## [Wordle Bot (WIP)](https://github.com/jmielc2/Wordle-Bot)
 
 <img width="896" height="521" alt="Screenshot 2025-11-26 181845" src="https://github.com/user-attachments/assets/1d006ae6-9675-4a57-bdc2-c94a86200bfa" />
 
